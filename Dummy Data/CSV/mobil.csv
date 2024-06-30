@@ -1,0 +1,81 @@
+ID_Mobil;Merek;Model;Jenis;Transmisi;Tahun;Odometer_KM;Warna
+1;Suzuki;Suzuki Ertiga;Station Wagon;manual;2011;94084;Abu-abu
+2;BMW;BMW X3;Station Wagon;manual;2005;98570;Ungu
+3;Honda;Honda CR-V;Van;manual;2020;25960;Putih
+4;Suzuki;Suzuki Jimny;Station Wagon;matic;2020;14650;Zaitun
+5;Mazda;Mazda RX-8;Hatchback;matic;2020;54632;Hitam
+6;Land Rover;Land Rover Velar;SUV;manual;2005;144605;Merah bata
+7;Isuzu;Isuzu D-Max;Sedan;manual;2011;146658;Abu-abu
+8;Honda;Honda City;Hatchback;matic;2005;87243;Zaitun
+9;Mazda;Mazda RX-8;Station Wagon;matic;2010;33920;Biru laut
+10;Mazda;Mazda 2;Station Wagon;manual;2005;127375;Emas
+11;Mercedes-Benz;Mercedes-Benz E-Class;Van;matic;2011;57400;Coklat tua
+12;Volkswagen;Volkswagen Jetta;Sedan;matic;2011;66317;Hitam
+13;Honda;Honda Pilot;SUV;matic;2011;140064;Koral
+14;BMW;BMW X3;SUV;matic;2011;161137;Putih
+15;Volkswagen;Volkswagen T-Roc;SUV;matic;2020;141953;Putih
+16;Toyota;Toyota Yaris;Station Wagon;manual;2005;24949;Coklat
+17;Mazda;Mazda CX-9;Station Wagon;matic;2005;36827;Biru dongker
+18;Volkswagen;Volkswagen Atlas;Station Wagon;matic;2005;39040;Biru dongker
+19;Isuzu;Isuzu N-Series;MPV;manual;2011;65511;Abu-abu
+20;BMW;BMW 2 Series;Sedan;manual;2005;183867;Merah
+21;BMW;BMW 3 Series;Station Wagon;manual;2020;42911;Biru dongker
+22;KIA;KIA Soul;Station Wagon;manual;2010;13762;Ungu tua
+23;Mercedes-Benz;Mercedes-Benz A-Class;SUV;manual;2010;60737;Hijau muda
+24;Mercedes-Benz;Mercedes-Benz C-Class;Sedan;matic;2020;178853;Biru dongker
+25;BMW;BMW i3;Van;manual;2011;62877;Hijau
+26;Toyota;Toyota Fortuner;Sedan;manual;2011;91548;Merah jambu
+27;Mercedes-Benz;Mercedes-Benz B-Class;Van;matic;2010;187326;Coklat
+28;Suzuki;Suzuki Alto;SUV;manual;2020;69775;Biru muda
+29;Isuzu;Isuzu N-Series;Sedan;manual;2005;70593;Nila
+30;Lexus;Lexus UX;Sedan;matic;2010;51063;Biru laut
+31;Lexus;Lexus GX;Station Wagon;manual;2011;56582;Abu-abu
+32;Volkswagen;Volkswagen Atlas;MPV;matic;2010;159956;Perak
+33;Honda;Honda Fit;Station Wagon;manual;2010;26538;Hijau
+34;BMW;BMW 7 Series;Van;matic;2005;132619;Biru dongker
+35;Hyundai;Hyundai Tucson;MPV;manual;2020;125429;Merah jambu
+36;Subaru;Subaru BRZ;MPV;matic;2010;69733;Abu-abu
+37;Isuzu;Isuzu Giga;Van;manual;2005;31870;Kuning
+38;Mercedes-Benz;Mercedes-Benz GLC;Van;manual;2020;182996;Merah marun
+39;Isuzu;Isuzu MU-X;Sedan;manual;2020;195181;Putih
+40;Mazda;Mazda 2;Van;manual;2010;22194;Merah
+41;Mazda;Mazda MX-5;SUV;manual;2011;124072;Perak
+42;BMW;BMW 5 Series;Station Wagon;manual;2020;160350;Ungu tua
+43;Mazda;Mazda CX-30;Station Wagon;manual;2005;180656;Merah
+44;Mercedes-Benz;Mercedes-Benz C-Class;SUV;matic;2010;82324;Biru dongker
+45;Land Rover;Land Rover Discovery;Hatchback;matic;2020;26411;Biru muda
+46;Honda;Honda Fit;Sedan;matic;2010;55510;Merah marun
+47;Mercedes-Benz;Mercedes-Benz A-Class;Sedan;matic;2005;155163;Merah
+48;Lexus;Lexus CT;Hatchback;matic;2005;85485;Kuning
+49;Mazda;Mazda CX-9;Station Wagon;matic;2020;123045;Magenta
+50;KIA;KIA Picanto;MPV;matic;2005;142620;Nila
+51;Mazda;Mazda MX-5;SUV;manual;2011;11463;Hijau tua
+52;KIA;KIA Carnival;Hatchback;matic;2020;158102;Biru dongker
+53;Lexus;Lexus LX;SUV;manual;2005;34363;Biru muda
+54;Lexus;Lexus ES;Sedan;manual;2010;20177;Hijau tua
+55;Hyundai;Hyundai Elantra;Van;matic;2005;69990;Putih
+56;Mercedes-Benz;Mercedes-Benz B-Class;Van;manual;2020;118744;Merah bata
+57;KIA;KIA Seltos;Hatchback;matic;2010;20538;Putih
+58;Isuzu;Isuzu D-Max;SUV;manual;2011;27826;Putih
+59;BMW;BMW 3 Series;MPV;manual;2011;13492;Merah
+60;Mercedes-Benz;Mercedes-Benz GLC;Sedan;matic;2020;20173;Hijau muda
+61;Isuzu;Isuzu Trooper;Sedan;matic;2005;151789;Abu-abu
+62;Suzuki;Suzuki Swift;MPV;matic;2011;125972;Hijau muda
+63;Land Rover;Land Rover Velar;Station Wagon;manual;2010;127281;Hijau tua
+64;Mazda;Mazda MX-5;Station Wagon;manual;2010;134172;Hijau
+65;Subaru;Subaru BRZ;Station Wagon;manual;2011;125846;Kuning
+66;BMW;BMW 5 Series;Sedan;matic;2020;102138;Hijau tua
+67;Honda;Honda City;Sedan;manual;2005;74747;Perak
+68;Volkswagen;Volkswagen Passat;SUV;matic;2010;17810;Perak
+69;Mazda;Mazda MX-5;Van;matic;2011;16774;Coklat
+70;Subaru;Subaru BRZ;Station Wagon;manual;2011;109522;Merah marun
+71;Mazda;Mazda 2;Sedan;manual;2020;62544;Biru muda
+72;Land Rover;Land Rover Defender 90;MPV;manual;2005;85855;Merah jambu
+73;Subaru;Subaru Forester;Van;matic;2011;149496;Putih
+74;Hyundai;Hyundai Ioniq;Hatchback;manual;2020;113877;Magenta
+75;Hyundai;Hyundai Palisade;Hatchback;matic;2005;192479;Merah jambu
+76;Toyota;Toyota Corolla Altis;Van;manual;2020;21590;Kuning
+77;Toyota;Toyota Yaris;Hatchback;manual;2010;20461;Coklat tua
+78;Suzuki;Suzuki S-Cross;Sedan;matic;2005;12428;Ungu tua
+79;KIA;KIA Sportage;Hatchback;matic;2010;167147;Nila
+80;Honda;Honda Pilot;Hatchback;manual;2011;168415;Ungu
